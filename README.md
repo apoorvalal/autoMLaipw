@@ -1,7 +1,7 @@
 # Tuning-Free AIPW with autoML
 
-h2o runs ML algorithms using a java execultable that can be downloaded
-from [here](https://h2o.ai/resources/download/). Setup is seamless on
+h2o runs ML algorithms using a java executable (`.jar`) that can be downloaded
+from [here](https://h2o.ai/resources/download/) and has accompanying bindings on CRAN. Setup is seamless on
 linux; YMMV.
 
 
